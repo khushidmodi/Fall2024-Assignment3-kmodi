@@ -43,7 +43,8 @@
                 @Html.DisplayFor(modelItem => item.Age)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImdbLink)
+                @*@Html.DisplayFor(modelItem => item.ImdbLink)*@
+                <a href="@item.ImdbLink" target="_blank">@item.ImdbLink</a>
             </td>
             @*<td>
                 @Html.DisplayFor(modelItem => item.Photo)
