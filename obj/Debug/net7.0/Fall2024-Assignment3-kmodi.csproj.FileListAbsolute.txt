@@ -1,0 +1,9 @@
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.csproj.AssemblyReference.cache
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.AssemblyInfoInputs.cache
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.AssemblyInfo.cs
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.csproj.CoreCompileInputs.cache
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.MvcApplicationPartsAssemblyInfo.cs
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.MvcApplicationPartsAssemblyInfo.cache
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.RazorAssemblyInfo.cache
+/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/Debug/net7.0/Fall2024-Assignment3-kmodi.RazorAssemblyInfo.cs

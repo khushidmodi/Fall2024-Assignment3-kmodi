@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/Fall2024-Assignment3-kmodi.csproj": {}
+  },
+  "projects": {
+    "/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/Fall2024-Assignment3-kmodi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/Fall2024-Assignment3-kmodi.csproj",
+        "projectName": "Fall2024-Assignment3-kmodi",
+        "projectPath": "/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/Fall2024-Assignment3-kmodi.csproj",
+        "packagesPath": "/Users/kush_1000/.nuget/packages/",
+        "outputPath": "/Users/kush_1000/Classes/CS 330/Assignment3/Fall2024-Assignment3-kmodi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kush_1000/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.AI.OpenAI": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "VaderSharp2": {
+              "target": "Package",
+              "version": "[3.3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
