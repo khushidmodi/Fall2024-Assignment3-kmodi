@@ -21,7 +21,8 @@
             @Html.DisplayNameFor(model => model.Movie.ImdbLink)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Movie.ImdbLink)
+            @*@Html.DisplayFor(model => model.Movie.ImdbLink)*@
+            <a href="@Model.Movie.ImdbLink" target="_blank">@Model.Movie.ImdbLink</a>
         </dd>
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Movie.Genre)
